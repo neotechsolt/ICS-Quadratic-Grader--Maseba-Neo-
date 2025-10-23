@@ -17,3 +17,12 @@ This repository contains the assignment which involves making an html file which
 - 55-59 → C⁺
 - 50-54 → C
 - 0-49 → D
+## How to run
+1. Download the 'index.html'
+2. Open it any web browser
+3. use the forms to solve the equation or convert to grade letter
+##  Student information
+- **Name:** Maseba Neo
+- **Student ID:** 202407198
+- **Course:** ICT 251 (Web Technologies)
+- **Lecturer:** Mr. Z. Kaluba
